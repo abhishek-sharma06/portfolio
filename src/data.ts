@@ -14,7 +14,7 @@ export const personalInfo = {
   aboutText: 'I am a highly motivated Computer Science student (Batch of 2026) at East West Institute of Technology in Bengaluru, India. With a deep passion for full-stack architecture and machine learning pipelines, my experience ranges from modular server development in PHP MVC architectures to implementing direct edge-intelligence applications inside web browsers with TensorFlow.js. My work as an AI/ML developer focuses on creating high-performance, real-time client-side solutions that operate securely, efficiently, and smoothly.',
   github: 'https://github.com/abhishek-sharma06',
   linkedin: 'https://linkedin.com/in/abhisheksharma6',
-  avatarUrl: '/src/assets/images/abhishek_avatar_1779959576974.png',
+  avatarUrl: '/src/assets/images/WhatsApp%20Image%202025-08-01%20at%205.43.05%20PM.jpeg',
 };
 
 export const skillsData: SkillCategory[] = [
